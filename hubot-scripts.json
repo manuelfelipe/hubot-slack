@@ -1,1 +1,5 @@
-[]
+[
+  "weather.coffee",
+  "wikipedia.coffee",
+  "xkcd.coffee"
+]
